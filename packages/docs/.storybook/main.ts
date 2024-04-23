@@ -1,4 +1,10 @@
 import type { StorybookConfig } from "@storybook/react-vite";
+import { addons } from "@storybook/manager-api";
+import { themes } from "@storybook/theming";
+
+addons.setConfig({
+  theme: themes.dark
+})
 
 import { join, dirname } from "path";
 
