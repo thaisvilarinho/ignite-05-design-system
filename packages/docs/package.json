@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@curso-ignite-ui/docs",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,9 +15,9 @@
     "build-storybook": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
+    "@curso-ignite-ui/eslint-config": "*",
+    "@curso-ignite-ui/react": "*",
+    "@curso-ignite-ui/tokens": "*",
     "@storybook/addon-a11y": "^8.0.10",
     "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",

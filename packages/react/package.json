@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@curso-ignite-ui/react",
   "version": "1.0.0",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
   "license": "MIT",
   "description": "",
   "devDependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@curso-ignite-ui/eslint-config": "*",
+    "@curso-ignite-ui/tokens": "*",
+    "@curso-ignite-ui/ts-config": "*",
     "@types/react": "^18.2.79",
     "@types/react-dom": "^18.2.25",
     "react": "^18.2.0",
