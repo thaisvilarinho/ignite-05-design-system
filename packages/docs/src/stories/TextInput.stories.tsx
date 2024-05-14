@@ -22,7 +22,7 @@ export default {
 
 export const Primary: StoryObj<TextInputProps> = {
   args: {
-    placeholder: 'Type your email address',
+    placeholder: 'Type your name',
   },
 }
 
@@ -35,5 +35,6 @@ export const Disabled: StoryObj<TextInputProps> = {
 export const WithPrefixPrimary: StoryObj<TextInputProps> = {
   args: {
     prefix: 'cal.com/',
+    placeholder: 'your-username',
   },
 }
