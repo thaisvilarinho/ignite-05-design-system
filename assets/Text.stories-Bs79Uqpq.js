@@ -1,0 +1,6 @@
+import{T as n}from"./index-CoxluMPD.js";import"./index-uCp2LrAq.js";import"./_commonjsHelpers-BosuxZz1.js";import"./index-ChiRO62b.js";import"./index-BOkhicXD.js";import"./jsx-runtime-X2b_N9AH.js";const g={title:"Typography/Text",component:n,args:{size:"md",children:"Lorem ipsum dolor, sit amet consectetur adipisicing elit. Maiores, suscipit aperiam minus maxime ex illum ullam nihil provident sint veritatis adipisci? Quaerat possimus ipsa natus illum eius aliquid praesentium aperiam?"},argTypes:{size:{options:["xxs","xs","sm","md","lg","xl","2xl","4xl","5xl","6xl","7xl","8xl","9xl"],control:{type:"inline-radio"}}}},r={},s={args:{children:"Strong Text",as:"strong"}};var e,i,t;r.parameters={...r.parameters,docs:{...(e=r.parameters)==null?void 0:e.docs,source:{originalSource:"{}",...(t=(i=r.parameters)==null?void 0:i.docs)==null?void 0:t.source}}};var a,o,m;s.parameters={...s.parameters,docs:{...(a=s.parameters)==null?void 0:a.docs,source:{originalSource:`{
+  args: {
+    children: 'Strong Text',
+    as: 'strong'
+  }
+}`,...(m=(o=s.parameters)==null?void 0:o.docs)==null?void 0:m.source}}};const T=["Primary","CustomTag"];export{s as CustomTag,r as Primary,T as __namedExportsOrder,g as default};
